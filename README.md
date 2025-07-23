@@ -3,8 +3,6 @@
 I'm interested in systems programming, machine learning, graphics, parallel and high performace computing, and low-level tools. 
 Please take a look at my repositories to see what projects I am working on. More info on my website.
 
-[![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=Saini-01)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Contact
 
 [Email](mailto:adityasaini.dev@gmail.com) · [Website](http://sunnyv.surge.sh) ·  [LinkedIn](https://linkedin.com/in/adityasaini-dev)
